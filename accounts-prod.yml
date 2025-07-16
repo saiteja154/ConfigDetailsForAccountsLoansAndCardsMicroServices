@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to BankSure accounts related production APIs "
+  message: "Welcome to BankSure accounts related prod APIs "
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "{cipher}5b44e040bdd28dde80d0ee78da916216b9aa6dd0af77c139691067e9a19147be36593135bf0567a003ca56f88905bd9d"
